@@ -1,0 +1,157 @@
+body
+{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+#header
+{
+    width: 100%;
+    height: 100px;
+    border: 2px solid green;
+    
+}
+#logo
+{
+    margin: 10px;
+    width: 150px;
+    height: 80px;
+    border: 2px solid lightgreen;
+}
+#logo a
+{
+    font-size: 60px;
+    text-shadow: 2px 2px 2px green;
+}
+#centrum
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 600px;
+    border: 2px solid purple;
+}
+#blok1
+{
+    width: 360px;
+    height: 500px;
+    margin-top: 50px;
+    border: 2px solid purple;
+    margin-right: 25px;
+    display: grid;
+}
+#blok2
+{
+    width: 360px;
+    height: 200px;
+    margin-bottom: 250px;
+    border: 2px solid blue;
+    text-align: center;
+}
+.bloczek1
+{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 335px;
+    height: 110px;
+    border: 2px solid purple;
+  
+}
+.bloczek2
+{
+    margin-left: 10px;
+    width: 335px;
+    height: 110px;
+    border: 2px solid purple;
+}
+.bloczek3
+{
+    margin-left: 10px;
+    width: 335px;
+    height: 110px;
+    border: 2px solid purple;
+}
+.bloczek4
+{
+    margin-left: 10px;
+    width: 335px;
+    height: 110px;
+    border: 2px solid purple;
+}
+.guzik1
+{
+    margin-left: 300px;
+    width: 30px;
+    height: 30px;
+    border: 2px solid purple;
+}
+.guzik1 button
+{
+    font-weight: bold;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+.guzik2
+{
+    margin-left: 300px;
+    width: 30px;
+    height: 30px;
+    border: 2px solid purple;
+}
+.guzik2 button
+{
+    font-weight: bold;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+.guzik3
+{
+    margin-left: 300px;
+    width: 30px;
+    height: 30px;
+    border: 2px solid purple;
+}
+.guzik3 button
+{
+    font-weight: bold;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+.guzik4
+{
+    margin-left: 300px;
+    width: 30px;
+    height: 30px;
+    border: 2px solid purple;
+}
+.guzik4 button
+{
+    font-weight: bold;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+input[type=submit]
+{
+    width: 150px;
+    height: 50px;
+    background-color: lightskybluE;
+    border: 0px;
+    border-radius: 10%;
+    cursor: pointer;
+    
+}
+
+
+
+
+#footer
+{
+    width: 100%;
+    height: 100px;
+    border: 2px solid red;
+
+}
